@@ -1,0 +1,233 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:200;300;400;500;600;700;800;900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.leftside {
+    height: 100vh;
+    width: 100%;
+    margin-left: -385px;
+    background: rgb(255, 255, 255);
+}
+
+.rightside {
+    height: 100vh;
+    width: 160%;
+    margin-left: -410px;
+    margin-right: 10px;
+    background: #e7eef0;
+}
+
+.img1 {
+    margin-top: -620px;
+    margin-left: 100px;
+}
+
+.s {
+    margin-top: 10px;
+    margin-left: 100px;
+    color: #0282cd;
+}
+
+.s1 {
+    margin-left: 72px;
+    margin-top: -5px;
+    margin-bottom: 20px;
+    color: #0282cd;
+}
+
+.list1 {
+    margin-left: 40px;
+    margin-bottom: -10px;
+    margin-top: 10px;
+    font-weight: 550;
+    font-size: 20px;
+    border: transparent;
+
+}
+
+.icon1 {
+    margin-left: 20px;
+    margin-bottom: -36.5px;
+}
+
+.icon2 {
+    margin-left: 20px;
+    margin-bottom: -36px;
+
+}
+
+.icon3 {
+    margin-left: 20px;
+    margin-bottom: -36px;
+}
+
+.icon4 {
+    margin-left: 20px;
+    margin-bottom: -36px;
+}
+
+.icon5 {
+    margin-left: 20px;
+    margin-bottom: -36px;
+}
+
+.icon6 {
+    margin-left: 20px;
+    margin-bottom: -36px;
+}
+
+.icon7 {
+    margin-left: 20px;
+    margin-bottom: -36px;
+}
+
+.icon8 {
+    margin-left: 20px;
+    margin-bottom: -36px;
+}
+
+.navbar {
+    margin-top: -630px;
+    margin-left: -350px;
+    margin-right: 12px;
+
+}
+
+.b1 {
+    margin-top: -7.8px;
+    margin-bottom: -18px;
+    color: #0282cd;
+}
+
+.drop {
+    background: transparent;
+    margin-left: -363px;
+    color: #585858;
+}
+
+.btn {
+    color: #0282cd;
+}
+
+.hr1 {
+    margin-left: 12.5px;
+    margin-top: -20.5px;
+}
+
+.s2 {
+    color: #585858;
+}
+
+.nav {
+    margin-left: 260px;
+    margin-top: -47px;
+}
+
+.hr2 {
+    margin-top: -12px;
+    color: #222222;
+}
+
+.dropdown {
+    margin-top: 10px;
+}
+
+.i1 {
+    margin-left: 235px;
+    margin-top: -30px;
+}
+
+.close {
+    margin-left: 246px;
+    margin-top: -15px;
+}
+
+.card {
+    margin-left: -352px;
+}
+
+
+.card2 {
+    margin-left: 320px;
+    margin-top: -193.5px;
+
+}
+
+.card3 {
+    margin-left: 645px;
+    margin-top: -193.5px;
+}
+
+.card5 {
+    margin-left: 320px;
+    margin-top: -193.5px;
+}
+
+.card6 {
+    margin-left: 645px;
+    margin-top: -194px;
+}
+
+.nav4 {
+    margin-left: -352px;
+    margin-right: 690px;
+    width: 290px;
+}
+
+.plus {
+    color: #fff;
+}
+
+.nav3 {
+    margin-left: -32px;
+    width: 290px;
+    margin-top: -30px;
+}
+
+.nav6 {
+    margin-left: 293px;
+    width: 290px;
+    margin-top: -30px;
+}
+
+.navbar2 {
+    margin-left: -352px;
+    margin-right: 79px;
+    margin-top: 10px;
+}
+
+.navtext3 {
+    color: #fff;
+}
+
+.copy {
+    margin-left: -410px;
+    margin-right: 12px;
+    margin-top: 30px;
+    height: 50px;
+}
+
+.cs {
+    color: rgb(224, 224, 224);
+    margin-left: 300px;
+    margin-top: -20px;
+}
+
+.dropx {
+    color: #0282cd;
+    background-color: #fff;
+    margin-left: 60px;
+    margin-top: -30px;
+}
+
+.ix {
+    color: #0282cd;
+    margin-left: 200px;
+    margin-top: -45px;
+}
